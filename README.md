@@ -1,11 +1,9 @@
 ### Hi there, I'm Fauzan and you can call me Ojan 👋
 
-## I'm a student at Brawijaya University, and Front-End Developer!!!
+## I'm a student at Brawijaya University, and Front-End Web Developer!!!
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking for more experience
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ I love photography and videography
 
 ### Connect with me:
 
